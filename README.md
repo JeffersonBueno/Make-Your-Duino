@@ -34,7 +34,7 @@ Here in the 3D viewer we can check how our replica of MAKE Duino will look where
 The PCB's I sent my GERBER file to JLCPCB which has an excellent finish and extreme quality.
 
 
-If you don't know JLCPCB's services yet, you can click here [https://jlcpcb.com/RHS](url)
+If you don't know JLCPCB's services yet, you can click here [https://jlcpcb.com/RUK](url)
 
 
 In addition to all the qualities already mentioned, they have a very good price where PBC's with a size of up to 100x100mm you can get the best boards paying $2 for 5 units.
